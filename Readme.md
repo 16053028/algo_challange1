@@ -19,6 +19,7 @@ Answer :
 Solusi saya
 
 Pseudo-Code
+```
 Declaration :
 result, c : integer;
 haveReport : boolean;
@@ -37,8 +38,9 @@ function solution(ranks){
 	}
 	return result;
 }
+```
 
-saya kira Time Complexitynya adalah O(n^2) dan Space Complexitynya adalah O(0) kareran tidak memakai space tambahan. Koreksi saya jika salah.
+saya kira Time Complexitynya adalah O(n^2) dan Space Complexitynya adalah O(0) karena tidak memakai space tambahan. Koreksi saya jika salah.
 
 Ada banyak solusi. Tapi saya menggunakan solusi ini. karena menurut saya ini cukup bagus.
 
