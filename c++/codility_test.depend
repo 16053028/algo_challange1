@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588338164 source:d:\c++\learn c++\codility_test\main.cpp
+	<iostream>
+	<algorithm>
+
