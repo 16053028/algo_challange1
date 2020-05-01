@@ -1,3 +1,6 @@
+# Prajurit&Commander
+ AlgoChallange1.
+
 Ada seorang prajurit dengan Rank X. Dimana dia harus melapor kepada commander yang memiliki Rank X+1. Dan prajurit tersebut hanya boleh melapor kepada 1 orang commander.
 
 buatlah sebuah fungsi 
@@ -32,9 +35,10 @@ function solution(ranks){
 		}//akhir dari looping
 	haveReport = false; // ganti prajurit rank[x] lain. dan tandai belum melapor
 	}
+	return result;
 }
 
-saya kira Time Complexitynya adalah O(n^2) dan Space Complexitynya adalah O(1). Koreksi saya jika salah.
+saya kira Time Complexitynya adalah O(n^2) dan Space Complexitynya adalah O(0) kareran tidak memakai space tambahan. Koreksi saya jika salah.
 
 Ada banyak solusi. Tapi saya menggunakan solusi ini. karena menurut saya ini cukup bagus.
 
